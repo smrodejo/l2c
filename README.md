@@ -1,2 +1,2 @@
-# l2c
-For L2C repository
+#### Hello!
+##### This is for my L2C learning
